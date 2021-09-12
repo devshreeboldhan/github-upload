@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WPFAPP", "WPFAPP\WPFAPP.csproj", "{401A9C62-0550-4AF7-8377-A7EB03643C00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp1", "WpfApp1\WpfApp1.csproj", "{22B1E8AE-4DE0-42DB-AD6E-4E559AD03A49}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Telerik", "Telerik\Telerik.vbproj", "{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{401A9C62-0550-4AF7-8377-A7EB03643C00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{401A9C62-0550-4AF7-8377-A7EB03643C00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{401A9C62-0550-4AF7-8377-A7EB03643C00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{401A9C62-0550-4AF7-8377-A7EB03643C00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22B1E8AE-4DE0-42DB-AD6E-4E559AD03A49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22B1E8AE-4DE0-42DB-AD6E-4E559AD03A49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22B1E8AE-4DE0-42DB-AD6E-4E559AD03A49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22B1E8AE-4DE0-42DB-AD6E-4E559AD03A49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0BE762FC-6001-4C84-BCDD-6086E7FE203F}
+	EndGlobalSection
+EndGlobal
